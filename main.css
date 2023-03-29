@@ -45,7 +45,7 @@ input, button {
     background: none;
 }
 
-#new-task {
+#new-task-input {
     flex: 1 1 0%;
     background-color: var(--darker);
     padding: 1rem;
@@ -55,7 +55,7 @@ input, button {
     font-size: 1.25rem
 }
 
-#new-task::placeholder {
+#new-task-input::placeholder {
     color: var(--gray);
 }
 
